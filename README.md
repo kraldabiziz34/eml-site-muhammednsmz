@@ -122,6 +122,9 @@ Kavramları kendi anlayacağın dille, kısaca yaz:
 7. **Uyumluluk:** Sitenin farklı tarayıcı ve cihazlarda bozulmadan çalışması; duyarlı (responsive) tasarım.
 
 ### Hafta 3
+
+### Bilgiler
+
 1. <!DOCTYPE html>
 Tarayıcıya HTML5 standartlarını kullandığımızı belirten zorunlu koddur.
 

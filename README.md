@@ -120,3 +120,41 @@ Kavramları kendi anlayacağın dille, kısaca yaz:
 5. **Güncellik:** İçeriklerin güncel, kullanılan teknolojilerin modern olması.
 6. **Uygunluk ve güvenilirlik:** İletişim bilgilerinin bulunması, bağlantıların çalışması ve yazım hatalarının olmaması.
 7. **Uyumluluk:** Sitenin farklı tarayıcı ve cihazlarda bozulmadan çalışması; duyarlı (responsive) tasarım.
+
+### Hafta 3
+1. <!DOCTYPE html>
+Tarayıcıya HTML5 standartlarını kullandığımızı belirten zorunlu koddur.
+
+2. <meta name="viewport"...>
+Sitenin cep telefonlarında ve tabletlerde bozulmadan, ekrana duyarlı (Responsive) çalışmasını sağlayan etikettir.
+
+### BAŞLIK HİYERARŞİSİ
+
+- Bir sayfada sadece bir tane <h1> (Ana Başlık) kullanılır.
+- Sıralama atlanamaz. Örneğin <h2>'den sonra <h4> yazılamaz, <h3> gelmelidir.
+- Başlık etiketleri yazıyı büyütmek için değil, sayfanın içindekiler tablosunu oluşturmak için kullanılır.
+- Yazı büyütme işi CSS ile yapılır.
+
+### ANLAMSAL (SEMANTIC) ETİKETLER
+
+<header> : Başlık ve Logo alanı.
+
+<nav> : Menü (Link) alanı.
+
+<main> : Sitenin ana içeriği.
+
+<article> : Bağımsız makale/haber bloğu.
+
+<section> : İçerik içindeki alt bölümler.
+
+<aside> : Ana içeriğin yanında duran yan bilgiler (Kenar çubuğu).
+
+<footer> : En alt kısımdaki telif/iletişim alanı.
+
+### ANLAMSAL METİN BİÇİMLENDİRME
+
+<strong> : Kalın yapar ama arama motoruna "bu kelime çok önemli" der.
+
+<em> : İtalik yapar ama "bu kelimeye vurgu yap" der.
+
+<!-- Yorum --> : Tarayıcıda görünmeyen, sadece kodlayıcının gördüğü notlardır.
